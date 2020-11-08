@@ -1,0 +1,32 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start"
+  },
+  "dependencies": {
+    "axios": "^0.19.1",
+    "expo": "~36.0.0",
+    "expo-av": "~8.0.0",
+    "expo-linear-gradient": "~8.0.0",
+    "expo-task-manager": "~8.0.0",
+    "react": "~16.9.0",
+    "react-dom": "~16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
+    "react-native-elements": "^1.2.7",
+    "react-native-gesture-handler": "^1.5.3",
+    "react-native-keyboard-accessory": "^0.1.10",
+    "react-native-screens": "2.0.0-alpha.12",
+    "react-native-simple-radio-button": "^2.7.4",
+    "react-native-web": "~0.11.7",
+    "react-navigation": "^4.0.10",
+    "react-navigation-drawer": "^1.4.0",
+    "react-navigation-stack": "^1.7.3",
+    "react-navigation-tabs": "^1.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "babel-preset-expo": "~8.0.0",
+    "metro": "^0.58.0"
+  },
+  "private": true
+}
